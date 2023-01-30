@@ -5,7 +5,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue'
-const hello = ref('Hello sj_uni_demo')
+const hello = ref('Hello uni_demo')
 </script>
 
 <style lang="scss" scoped>

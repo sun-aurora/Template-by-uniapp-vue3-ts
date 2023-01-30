@@ -1,7 +1,7 @@
 <template>
   <view class="header">
     <image class="header__logo" src="../../../static/logo.png" alt="logo" />
-    <text class="header__title">sj-uni-demo</text>
+    <text class="header__title">uni-demo</text>
   </view>
 </template>
 
